@@ -353,10 +353,13 @@ namespace akasztofa
     }
 }
 ```
-</details>
 
+</details>
+```c#
+```
 
 <details>
+
 <summary>Nyisd le a xaml.cs forrásért </summary>
 ```c#
 <Window x:Class="akasztofa.MainWindow"
