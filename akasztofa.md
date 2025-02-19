@@ -353,10 +353,10 @@ namespace akasztofa
     }
 }
 ```
-
-</details>
 ```c#
 ```
+</details>
+
 
 <details>
 
