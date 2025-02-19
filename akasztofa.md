@@ -189,9 +189,10 @@ private void UpdateHangmanImage()
 
 ```
 
-```c#
+
 <details>
 <summary>Nyisd le az xaml forrásért</summary>
+```c#
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -351,12 +352,13 @@ namespace akasztofa
         }
     }
 }
-</details>
 ```
-```c#
+</details>
+
+
 <details>
 <summary>Nyisd le a xaml.cs forrásért </summary>
-
+```c#
 <Window x:Class="akasztofa.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -401,5 +403,5 @@ namespace akasztofa
         </Grid>
     </Grid>
 </Window>
-</details>
 ```
+</details>
